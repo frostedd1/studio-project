@@ -1,20 +1,11 @@
-﻿  Enmies States.cpp
-c:\users\jonka\documents\github\studio-project\sp1framework\sp1framework\enmies states.cpp(34): warning C4101: 'CrocottaStats': unreferenced local variable
-c:\users\jonka\documents\github\studio-project\sp1framework\sp1framework\enmies states.cpp(34): warning C4101: 'ArugusStat': unreferenced local variable
-c:\users\jonka\documents\github\studio-project\sp1framework\sp1framework\enmies states.cpp(36): warning C4101: 'MinotuarStats': unreferenced local variable
-c:\users\jonka\documents\github\studio-project\sp1framework\sp1framework\enmies states.cpp(35): warning C4101: 'MedusaStats': unreferenced local variable
-c:\users\jonka\documents\github\studio-project\sp1framework\sp1framework\enmies states.cpp(35): warning C4101: 'HarpieStats': unreferenced local variable
-c:\users\jonka\documents\github\studio-project\sp1framework\sp1framework\enmies states.cpp(34): warning C4101: 'CyclopsStat': unreferenced local variable
-c:\users\jonka\documents\github\studio-project\sp1framework\sp1framework\enmies states.cpp(35): warning C4101: 'PharoahStats': unreferenced local variable
-c:\users\jonka\documents\github\studio-project\sp1framework\sp1framework\enmies states.cpp(33): warning C4101: 'VampireBatStat': unreferenced local variable
-c:\users\jonka\documents\github\studio-project\sp1framework\sp1framework\enmies states.cpp(33): warning C4101: 'CentaurStat': unreferenced local variable
-c:\users\jonka\documents\github\studio-project\sp1framework\sp1framework\enmies states.cpp(34): warning C4101: 'ScorpionStat': unreferenced local variable
-c:\users\jonka\documents\github\studio-project\sp1framework\sp1framework\enmies states.cpp(36): warning C4101: 'HydraStats': unreferenced local variable
-c:\users\jonka\documents\github\studio-project\sp1framework\sp1framework\enmies states.cpp(35): warning C4101: 'SirenStats': unreferenced local variable
-c:\users\jonka\documents\github\studio-project\sp1framework\sp1framework\enmies states.cpp(33): warning C4101: 'SerpentStat': unreferenced local variable
+﻿  EnemyEncounter.cpp
+c:\users\tan  zi yang\documents\github\studio-project\sp1framework\sp1framework\enemyencounter.cpp(42): error C2360: initialization of 'a' is skipped by 'case' label
+  c:\users\tan  zi yang\documents\github\studio-project\sp1framework\sp1framework\enemyencounter.cpp(27): note: see declaration of 'a'
+c:\users\tan  zi yang\documents\github\studio-project\sp1framework\sp1framework\enemyencounter.cpp(50): error C2361: initialization of 'a' is skipped by 'default' label
+  c:\users\tan  zi yang\documents\github\studio-project\sp1framework\sp1framework\enemyencounter.cpp(27): note: see declaration of 'a'
+  Enmies States.cpp
   console.cpp
   timer.cpp
   game.cpp
   main.cpp
   Generating Code...
-  SP1Framework.vcxproj -> C:\Users\jonka\Documents\GitHub\studio-project\SP1Framework\Debug\SP1Framework.exe
